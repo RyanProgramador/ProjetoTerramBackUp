@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "Projeto Terram Backup" "\0"
+            VALUE "CompanyName", "Projeto Terram BackUp" "\0"
             VALUE "FileDescription", "A new Flutter project." "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "Projeto Terram Backup" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 Projeto Terram Backup. All rights reserved." "\0"
-            VALUE "OriginalFilename", "projeto_terram_backup.exe" "\0"
-            VALUE "ProductName", "Projeto Terram Backup" "\0"
+            VALUE "InternalName", "Projeto Terram BackUp" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 Projeto Terram BackUp. All rights reserved." "\0"
+            VALUE "OriginalFilename", "projeto_terram_back_up.exe" "\0"
+            VALUE "ProductName", "Projeto Terram BackUp" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
